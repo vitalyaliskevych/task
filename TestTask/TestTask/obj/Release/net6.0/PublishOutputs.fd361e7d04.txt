@@ -1,0 +1,11 @@
+C:\Users\L\Desktop\Проекты\TestTask\TestTask\bin\Release\net6.0\publish\TestTask.exe
+C:\Users\L\Desktop\Проекты\TestTask\TestTask\bin\Release\net6.0\publish\TestTask.dll
+C:\Users\L\Desktop\Проекты\TestTask\TestTask\bin\Release\net6.0\publish\TestTask.deps.json
+C:\Users\L\Desktop\Проекты\TestTask\TestTask\bin\Release\net6.0\publish\TestTask.runtimeconfig.json
+C:\Users\L\Desktop\Проекты\TestTask\TestTask\bin\Release\net6.0\publish\TestTask.pdb
+C:\Users\L\Desktop\Проекты\TestTask\TestTask\bin\Release\net6.0\publish\System.Data.SqlClient.dll
+C:\Users\L\Desktop\Проекты\TestTask\TestTask\bin\Release\net6.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\L\Desktop\Проекты\TestTask\TestTask\bin\Release\net6.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\L\Desktop\Проекты\TestTask\TestTask\bin\Release\net6.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\L\Desktop\Проекты\TestTask\TestTask\bin\Release\net6.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\L\Desktop\Проекты\TestTask\TestTask\bin\Release\net6.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
